@@ -1,8 +1,8 @@
 # ML_Project
-Machine Learning Projects/n
+### 📁 Machine Learning Projects
 
-##Project_1. Development of Predictive Model for the Number of Potholes, Using Machine Learning/n
+  #### __📄 1. Development of Predictive Model for the Number of Potholes, Using Machine Learning
 
-##Project_2. Implementation of Pill image-based screening service, Using Deep Learning/n
+  #### __📄 2. Implementation of Pill image-based screening service, Using Deep Learning
 
-##Project_3. DACrew4 - Making PBL(Project Based Learning)/n
+  #### __📄 3. DACrew4 - Making PBL(Project Based Learning)
